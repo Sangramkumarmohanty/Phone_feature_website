@@ -5,5 +5,6 @@ Welcome to the Phone Features Website, a dynamic and interactive platform showca
 
 1.Phone Feature Database: 
 Our website boasts an extensive database of the latest smartphone features. Users can easily search, filter, and compare features, making informed decisions when choosing their next mobile device.
+
 2.Responsive Design:
 The website is designed with responsiveness in mind, ensuring a consistent and user-friendly experience across various devices, including smartphones, tablets, and desktops.
